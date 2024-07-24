@@ -1,0 +1,188 @@
+{
+    "Apps": [],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        },
+        {
+            "Encrypted": "Your data is encrypted and cannot be exported."
+        }
+    ],
+    "Priority Preferences": [
+        {"preference": {
+            "name": "sync.demographics",
+            "value": "{\"gender\":1,\"birth_year\":1992}"
+}},
+        {"preference": {
+            "name": "credentials_enable_autosignin",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_password_manager_warm_welcome_last_seen",
+            "value": "2019-10-07T14:56:38.767258112Z"
+}},
+        {"preference": {
+            "name": "billing_customer_number",
+            "value": "289579919167"
+}},
+        {"preference": {
+            "name": "credentials_enable_service",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_last_password_checkup_time",
+            "value": "2024-07-10T22:26:46.819823Z"
+}},
+        {"preference": {
+            "name": "credentials_need_first_time_welcome",
+            "value": "false"
+}},
+        {"preference": {
+            "name": "credentials_enable_sync",
+            "value": "true"
+}}
+    ],
+    "Themes": [],
+    "App Lists": [],
+    "Web Apps": [],
+    "Search Engines": []
+}

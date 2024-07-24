@@ -1,0 +1,64 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 126.0.6478.161 (8ad46da1cc652bd4937f35f28440f03824838769-refs/branch-heads/6478@{#1646}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "126.0.6478.161"},
+            "signin_scoped_device_id": "cd497feb-5a4a-4d30-89cd-37743c2fadf7",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "xwEJSM0eVNAyC4QEn+NZIw==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "fk7nrI6Q4T8:APA91bEJGeU0MIr2SQSYWNZpL9ofadMbjJpf0jT4iINVQbTh-yjBOl1CsAEBLmZ86HjvSmmY922j3snCoX5NLWHhkwIBAZUgmWyl-yPXNwl6ePLkmtWOU1w6Z1FNkXn50u6udMlF99cY",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    330441,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1721405321871,
+            "model": "iPhone15,3",
+            "client_name": "iPhone15,3",
+            "chrome_version": "126.0.6478.161"
+},
+        {
+            "sync_user_agent": "Chrome IOS-PHONE 127.0.6533.56 (619c80777d57e9d50d1ab7ba6c0ec0af6576e7f3-refs/branch-heads/6533@{#1556}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "127.0.6533.56"},
+            "signin_scoped_device_id": "672381eb-e27d-414d-bb0b-8d86b6a6473d",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "cuIxW7xvgtkgaLuKtGcJGA==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "dAOQHN09JLk:APA91bHTOXappEAZZqA4X6llQXPEYuJSWkZSoKUJ5btw6dqExreEBj3ifHANnvUkvbyJaCkw6OnT7nhsERUp7HFWGHpAX_w_DfzsRSqdq3fFcrJmCRdJNiZiiUBrZsrwVBeHcy19pfhw",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    50119,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    1141935,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1721481159972,
+            "model": "iPhone15,3",
+            "client_name": "iPhone15,3",
+            "chrome_version": "127.0.6533.56"
+}
+    ]
+}
